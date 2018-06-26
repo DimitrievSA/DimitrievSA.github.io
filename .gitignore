@@ -1,0 +1,9 @@
+/node_modules/
+/.idea
+/.vscode
+/build/
+/.git/
+/app/css/
+/**/_backstage
+/**/Thumbs.db
+/**/*.DS_Store
